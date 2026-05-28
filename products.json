@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Scrat's Acorn Sharpener 🌰",
+    "price": 5.99,
+    "description": "Never lose your sharpener again! Scrat will guard this acorn with his life.",
+    "image": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?w=400&q=80",
+    "category": "Accessories",
+    "color": "#B3E5FC"
+  },
+  {
+    "id": 2,
+    "name": "Manny's Mammoth Jumbo Eraser 🦣",
+    "price": 4.50,
+    "description": "Giant size for giant mistakes. Made from tough, long-lasting premium rubber.",
+    "image": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?w=400&q=80",
+    "category": "School Essentials",
+    "color": "#E0F7FA"
+  },
+  {
+    "id": 3,
+    "name": "Sid's Sleepy Sloth Notebook 🦥",
+    "price": 6.99,
+    "description": "Perfect for slow-paced writing, doodling, or taking comfortable naps during study breaks.",
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=400&q=80",
+    "category": "Stationery Zone",
+    "color": "#FFE082"
+  },
+  {
+    "id": 4,
+    "name": "Diego's Saber-Tooth Geometry Set 🐅",
+    "price": 15.00,
+    "description": "Sharp, precise, and sleek tools to conquer any math problem in school.",
+    "image": "https://images.unsplash.com/photo-1628282361139-3c8702c89288?w=400&q=80",
+    "category": "School Essentials",
+    "color": "#B3E5FC"
+  },
+  {
+    "id": 5,
+    "name": "Blizzard Glow-in-the-Dark Pen Set 🖊️",
+    "price": 9.99,
+    "description": "Write with glowing sub-zero neon ink that shines bright like the aurora borealis.",
+    "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=400&q=80",
+    "category": "Stationery Zone",
+    "color": "#E0F7FA"
+  },
+  {
+    "id": 6,
+    "name": "Ice Cave Painting & Stencil Set 🎨",
+    "price": 12.99,
+    "description": "Recreate prehistoric drawings with modern wash-friendly paint and cool stencil designs.",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=400&q=80",
+    "category": "Craft Materials",
+    "color": "#FFE082"
+  },
+  {
+    "id": 7,
+    "name": "Sub-Zero Thermo Lunch Flask ❄️",
+    "price": 19.99,
+    "description": "Keeps your milk ice-cold or your soup mammoth-warm for over 12 hours.",
+    "image": "https://images.unsplash.com/photo-1606757640280-99905c13f9c6?w=400&q=80",
+    "category": "Cute Accessories",
+    "color": "#B3E5FC"
+  }
+]
